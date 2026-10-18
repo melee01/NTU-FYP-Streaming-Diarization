@@ -1,4 +1,4 @@
-# NTU-FYP-Diarization
+# NTU-FYP-Streaming-Diarization
 ### Name: Melisa Lee
 ### FYP ID: CCDS26-0157
 ### Project Title: Streaming: Who speak when task (Diarization)
